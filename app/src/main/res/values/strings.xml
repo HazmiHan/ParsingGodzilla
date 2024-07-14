@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Godzilla</string>
+    <string name="name">Godzilla</string>
+    <string name="avatar">Avatar</string>
+    <string name="bio">Biography</string>
+    <string name="pow">Power</string>
+    <string name="appe">Appearance</string>
+    <string name="work">Work</string>
+    <string name="conn">Connection</string>
+</resources>
